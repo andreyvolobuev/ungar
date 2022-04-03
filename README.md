@@ -35,4 +35,8 @@ return total_value
 
 ### Results
 I implemented this algorithm in Go and the results are pretty impressive for my perspective:    
-![Go results](https://s664sas.storage.yandex.net/rdisk/bc7124ae8d9ed60b120d5588234c9c23bb62ad77f8820ede17b50ae26b70566c/624a4a70/pfij6xBngPVgInIdm4nrFe2L0Y567sjs8_dQQP-VF5C2Dn8Dxd8C79oGtOt8wrhDE7LaX_juy8VXx5qQIhTgmA==?uid=0&filename=Screen%20Shot%202022-04-04%20at%2000.30.26.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=10301&hid=61b54700b2614cb1d7e3392b7bc9b53a&media_type=image&tknv=v2&etag=d980d633d51b18ca30bdc99fd2c9a3d3&rtoken=8F1yzC3bPaLp&force_default=no&ycrid=na-30e5e0d8a3961efddef8856ff972f01a-downloader14h&ts=5dbca16537c00&s=5ead3483e7089edc0a923c62b5d7a3a863473fb08f6c6d219b8dc114618705af&pb=U2FsdGVkX19G3yKwTR0T8DKx8LyAgfR9rievNiY8J6L0TnVCLTXpR9yqYHLNt182DlRBV-kAordiG4R3cfaB28nqe5Eg7ZSmt8l2e057ItI)
+![Go results](https://s664sas.storage.yandex.net/rdisk/bc7124ae8d9ed60b120d5588234c9c23bb62ad77f8820ede17b50ae26b70566c/624a4a70/pfij6xBngPVgInIdm4nrFe2L0Y567sjs8_dQQP-VF5C2Dn8Dxd8C79oGtOt8wrhDE7LaX_juy8VXx5qQIhTgmA==?uid=0&filename=Screen%20Shot%202022-04-04%20at%2000.30.26.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=10301&hid=61b54700b2614cb1d7e3392b7bc9b53a&media_type=image&tknv=v2&etag=d980d633d51b18ca30bdc99fd2c9a3d3&rtoken=8F1yzC3bPaLp&force_default=no&ycrid=na-30e5e0d8a3961efddef8856ff972f01a-downloader14h&ts=5dbca16537c00&s=5ead3483e7089edc0a923c62b5d7a3a863473fb08f6c6d219b8dc114618705af&pb=U2FsdGVkX19G3yKwTR0T8DKx8LyAgfR9rievNiY8J6L0TnVCLTXpR9yqYHLNt182DlRBV-kAordiG4R3cfaB28nqe5Eg7ZSmt8l2e057ItI)    
+    1 million hands evaluated per half a second.
+
+### PS
+I'd appreciate any comments, questions are critique. You are more then welcome to fill up an issue or drop me a line to [avvolob@gmail.com](mailto:avvolob@gmail.com)
