@@ -1,5 +1,5 @@
 # Ungar
-![Stu "the kid" Ungar](https://s229vla.storage.yandex.net/rdisk/baee069ee5aff3d1059578fe12931cb23c98190ae30a7ec053dd6ef967ccc135/624a456f/pfij6xBngPVgInIdm4nrFehBWE7NyloGgUA7k2qIvgiBXZJhrqEFpUjsKVLFD1rueDDyLrxNR8BqLHgtkYQ8dA==?uid=0&filename=stuungar3.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&fsize=29852&hid=01614234879c314e15d976e49335c8e8&media_type=image&tknv=v2&etag=1c760d1069ecd4edb111c098fc877e94&rtoken=ZgoH65TxYseF&force_default=no&ycrid=na-5f0b8b71a24d144ddb9e3267f18c6a80-downloader3f&ts=5dbc9c9f8f9c0&s=1622c3e4ebdde7bfa565a9442fb1441756247156b3eef3313c8fffcf70d0a1f6&pb=U2FsdGVkX1-_OxdE069mSJwpAhwdaTdnGO6Q_ysLGBIO73qavkwEoe5UiHKfa0FUjwlezJ46_zvFPW_w2GR3FXNVbdQ7hRqolZqpfvZnrrg)
+![Stu "the kid" Ungar](stuungar3.jpeg)
 ## Texas Hold'em 7-hand poker hand evaluator
 
 ### Reasoning
@@ -35,7 +35,7 @@ return total_value
 
 ### Results
 I implemented this algorithm in Go and the results are pretty impressive for my perspective:    
-![Go results](https://s664sas.storage.yandex.net/rdisk/bc7124ae8d9ed60b120d5588234c9c23bb62ad77f8820ede17b50ae26b70566c/624a4a70/pfij6xBngPVgInIdm4nrFe2L0Y567sjs8_dQQP-VF5C2Dn8Dxd8C79oGtOt8wrhDE7LaX_juy8VXx5qQIhTgmA==?uid=0&filename=Screen%20Shot%202022-04-04%20at%2000.30.26.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=10301&hid=61b54700b2614cb1d7e3392b7bc9b53a&media_type=image&tknv=v2&etag=d980d633d51b18ca30bdc99fd2c9a3d3&rtoken=8F1yzC3bPaLp&force_default=no&ycrid=na-30e5e0d8a3961efddef8856ff972f01a-downloader14h&ts=5dbca16537c00&s=5ead3483e7089edc0a923c62b5d7a3a863473fb08f6c6d219b8dc114618705af&pb=U2FsdGVkX19G3yKwTR0T8DKx8LyAgfR9rievNiY8J6L0TnVCLTXpR9yqYHLNt182DlRBV-kAordiG4R3cfaB28nqe5Eg7ZSmt8l2e057ItI)    
+![Go results](1m_evaluated.png)    
     1 million hands evaluated per half a second.
 
 ### PS
